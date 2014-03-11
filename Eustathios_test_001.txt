@@ -1,0 +1,654 @@
+m21 (metric)
+(setup_home)
+g92 x0 y0 z0
+(iteration1)
+(rapids)
+g0 y110
+g0 x310
+x0
+x310
+x0
+x310
+x0
+y0
+(boxes)
+g0 x0 y0 
+x310
+y295
+x0
+y0
+x250
+y250
+x0
+y0
+x190
+y190
+x0 y0
+x150
+x0
+y150
+y0
+x110
+y110
+x0
+y0
+x80
+y80
+x0
+y0
+x100
+y100
+x0
+y0
+x25
+y25
+x0
+y0
+x10
+y10
+x0
+y0
+x2
+y2
+x0
+y0
+x10
+y10
+x0
+y0
+x25
+y25
+x0
+y0
+x100
+y100
+x0
+y0
+x80
+y80
+x0
+y0
+x110
+y110
+x0
+y0
+x190
+y190
+x0
+y0
+(circles)
+g0 x45 y50 z0
+f30000
+g3 x45 y50 i50 j50 z110
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i50 j50 z10
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i50 j50 z50
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i80 j80 z30
+g2 x45 y50 i80 j80 z0
+g3 x45 y50 i105 j95 z0
+g3 x45 y50 i105 j95 z0
+g2 x45 y50 i105 j95 z0
+g2 x45 y50 i105 j95 z0
+g3 x45 y50 i30 j30 z80 
+g2 x45 y50 i30 j30 z0 
+g3 x45 y50 i50 j50 z50
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i10 j10 z60
+g2 x45 y50 i10 j10 z0 
+g3 x45 y50 i5 j5 z70
+g2 x45 y50 i5 j5 z0
+g3 x45 y50 i50 j50 z0
+g2 x45 y50 i50 j50 z0
+(diagonals)
+g0 x130 y130
+g0 x310 y0
+g0 x0 y295
+g0 x310 y0
+g0 x0 y295
+g0 x310 y0
+g0 x0 y295
+g0 x130 y130
+g0 x0 y0
+g0 x310 y295
+g0 x0 y0
+g0 x310 y295
+g0 x0 y0
+g0 x310 y295
+g0 x130 y130
+g0 x200 y60
+g0 x60 y200
+g0 x200 y60
+g0 x60 y200
+g0 x200 y60
+g0 x60 y200
+g0 x130 y130
+g0 x60 y60
+g0 x200 y200
+g0 x60 y60
+g0 x200 y200
+g0 x60 y60
+g0 x200 y200
+g0 x0 y0
+(iteration2)
+(rapids)
+g0 y110
+g0 x310
+x0
+x310
+x0
+x310
+x0
+y0
+(boxes)
+g0 x0 y0 
+x310
+y295
+x0
+y0
+x250
+y250
+x0
+y0
+x190
+y190
+x0 y0
+x150
+x0
+y150
+y0
+x110
+y110
+x0
+y0
+x80
+y80
+x0
+y0
+x100
+y100
+x0
+y0
+x25
+y25
+x0
+y0
+x10
+y10
+x0
+y0
+x2
+y2
+x0
+y0
+x10
+y10
+x0
+y0
+x25
+y25
+x0
+y0
+x100
+y100
+x0
+y0
+x80
+y80
+x0
+y0
+x110
+y110
+x0
+y0
+x190
+y190
+x0
+y0
+(circles)
+g0 x45 y50 z0
+f30000
+g3 x45 y50 i50 j50 z110
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i50 j50 z10
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i50 j50 z50
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i80 j80 z30
+g2 x45 y50 i80 j80 z0
+g3 x45 y50 i105 j95 z0
+g3 x45 y50 i105 j95 z0
+g2 x45 y50 i105 j95 z0
+g2 x45 y50 i105 j95 z0
+g3 x45 y50 i30 j30 z80 
+g2 x45 y50 i30 j30 z0 
+g3 x45 y50 i50 j50 z50
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i10 j10 z60
+g2 x45 y50 i10 j10 z0 
+g3 x45 y50 i5 j5 z70
+g2 x45 y50 i5 j5 z0
+g3 x45 y50 i50 j50 z0
+g2 x45 y50 i50 j50 z0
+(diagonals)
+g0 x130 y130
+g0 x310 y0
+g0 x0 y295
+g0 x310 y0
+g0 x0 y295
+g0 x310 y0
+g0 x0 y295
+g0 x130 y130
+g0 x0 y0
+g0 x310 y295
+g0 x0 y0
+g0 x310 y295
+g0 x0 y0
+g0 x310 y295
+g0 x130 y130
+g0 x200 y60
+g0 x60 y200
+g0 x200 y60
+g0 x60 y200
+g0 x200 y60
+g0 x60 y200
+g0 x130 y130
+g0 x60 y60
+g0 x200 y200
+g0 x60 y60
+g0 x200 y200
+g0 x60 y60
+g0 x200 y200
+g0 x0 y0
+(iteration3)
+(rapids)
+g0 y110
+g0 x310
+x0
+x310
+x0
+x310
+x0
+y0
+(boxes)
+g0 x0 y0 
+x310
+y295
+x0
+y0
+x250
+y250
+x0
+y0
+x190
+y190
+x0 y0
+x150
+x0
+y150
+y0
+x110
+y110
+x0
+y0
+x80
+y80
+x0
+y0
+x100
+y100
+x0
+y0
+x25
+y25
+x0
+y0
+x10
+y10
+x0
+y0
+x2
+y2
+x0
+y0
+x10
+y10
+x0
+y0
+x25
+y25
+x0
+y0
+x100
+y100
+x0
+y0
+x80
+y80
+x0
+y0
+x110
+y110
+x0
+y0
+x190
+y190
+x0
+y0
+(circles)
+g0 x45 y50 z0
+f30000
+g3 x45 y50 i50 j50 z110
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i50 j50 z10
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i50 j50 z50
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i80 j80 z30
+g2 x45 y50 i80 j80 z0
+g3 x45 y50 i105 j95 z0
+g3 x45 y50 i105 j95 z0
+g2 x45 y50 i105 j95 z0
+g2 x45 y50 i105 j95 z0
+g3 x45 y50 i30 j30 z80 
+g2 x45 y50 i30 j30 z0 
+g3 x45 y50 i50 j50 z50
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i10 j10 z60
+g2 x45 y50 i10 j10 z0 
+g3 x45 y50 i5 j5 z70
+g2 x45 y50 i5 j5 z0
+g3 x45 y50 i50 j50 z0
+g2 x45 y50 i50 j50 z0
+(diagonals)
+g0 x130 y130
+g0 x310 y0
+g0 x0 y295
+g0 x310 y0
+g0 x0 y295
+g0 x310 y0
+g0 x0 y295
+g0 x130 y130
+g0 x0 y0
+g0 x310 y295
+g0 x0 y0
+g0 x310 y295
+g0 x0 y0
+g0 x310 y295
+g0 x130 y130
+g0 x200 y60
+g0 x60 y200
+g0 x200 y60
+g0 x60 y200
+g0 x200 y60
+g0 x60 y200
+g0 x130 y130
+g0 x60 y60
+g0 x200 y200
+g0 x60 y60
+g0 x200 y200
+g0 x60 y60
+g0 x200 y200
+g0 x0 y0
+(iteration4)
+(rapids)
+g0 y110
+g0 x310
+x0
+x310
+x0
+x310
+x0
+y0
+(boxes)
+g0 x0 y0 
+x310
+y295
+x0
+y0
+x250
+y250
+x0
+y0
+x190
+y190
+x0 y0
+x150
+x0
+y150
+y0
+x110
+y110
+x0
+y0
+x80
+y80
+x0
+y0
+x100
+y100
+x0
+y0
+x25
+y25
+x0
+y0
+x10
+y10
+x0
+y0
+x2
+y2
+x0
+y0
+x10
+y10
+x0
+y0
+x25
+y25
+x0
+y0
+x100
+y100
+x0
+y0
+x80
+y80
+x0
+y0
+x110
+y110
+x0
+y0
+x190
+y190
+x0
+y0
+(circles)
+g0 x45 y50 z0
+f30000
+g3 x45 y50 i50 j50 z110
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i50 j50 z10
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i50 j50 z50
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i80 j80 z30
+g2 x45 y50 i80 j80 z0
+g3 x45 y50 i105 j95 z0
+g3 x45 y50 i105 j95 z0
+g2 x45 y50 i105 j95 z0
+g2 x45 y50 i105 j95 z0
+g3 x45 y50 i30 j30 z80 
+g2 x45 y50 i30 j30 z0 
+g3 x45 y50 i50 j50 z50
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i10 j10 z60
+g2 x45 y50 i10 j10 z0 
+g3 x45 y50 i5 j5 z70
+g2 x45 y50 i5 j5 z0
+g3 x45 y50 i50 j50 z0
+g2 x45 y50 i50 j50 z0
+(diagonals)
+g0 x130 y130
+g0 x310 y0
+g0 x0 y295
+g0 x310 y0
+g0 x0 y295
+g0 x310 y0
+g0 x0 y295
+g0 x130 y130
+g0 x0 y0
+g0 x310 y295
+g0 x0 y0
+g0 x310 y295
+g0 x0 y0
+g0 x310 y295
+g0 x130 y130
+g0 x200 y60
+g0 x60 y200
+g0 x200 y60
+g0 x60 y200
+g0 x200 y60
+g0 x60 y200
+g0 x130 y130
+g0 x60 y60
+g0 x200 y200
+g0 x60 y60
+g0 x200 y200
+g0 x60 y60
+g0 x200 y200
+g0 x0 y0
+(iteration5)
+(rapids)
+g0 y110
+g0 x310
+x0
+x310
+x0
+x310
+x0
+y0
+(boxes)
+g0 x0 y0 
+x310
+y295
+x0
+y0
+x250
+y250
+x0
+y0
+x190
+y190
+x0 y0
+x150
+x0
+y150
+y0
+x110
+y110
+x0
+y0
+x80
+y80
+x0
+y0
+x100
+y100
+x0
+y0
+x25
+y25
+x0
+y0
+x10
+y10
+x0
+y0
+x2
+y2
+x0
+y0
+x10
+y10
+x0
+y0
+x25
+y25
+x0
+y0
+x100
+y100
+x0
+y0
+x80
+y80
+x0
+y0
+x110
+y110
+x0
+y0
+x190
+y190
+x0
+y0
+(circles)
+g0 x45 y50 z0
+f30000
+g3 x45 y50 i50 j50 z110
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i50 j50 z10
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i50 j50 z50
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i80 j80 z30
+g2 x45 y50 i80 j80 z0
+g3 x45 y50 i105 j95 z0
+g3 x45 y50 i105 j95 z0
+g2 x45 y50 i105 j95 z0
+g2 x45 y50 i105 j95 z0
+g3 x45 y50 i30 j30 z80 
+g2 x45 y50 i30 j30 z0 
+g3 x45 y50 i50 j50 z50
+g2 x45 y50 i50 j50 z0
+g3 x45 y50 i10 j10 z60
+g2 x45 y50 i10 j10 z0 
+g3 x45 y50 i5 j5 z70
+g2 x45 y50 i5 j5 z0
+g3 x45 y50 i50 j50 z0
+g2 x45 y50 i50 j50 z0
+(diagonals)
+g0 x130 y130
+g0 x310 y0
+g0 x0 y295
+g0 x310 y0
+g0 x0 y295
+g0 x310 y0
+g0 x0 y295
+g0 x130 y130
+g0 x0 y0
+g0 x310 y295
+g0 x0 y0
+g0 x310 y295
+g0 x0 y0
+g0 x310 y295
+g0 x130 y130
+g0 x200 y60
+g0 x60 y200
+g0 x200 y60
+g0 x60 y200
+g0 x200 y60
+g0 x60 y200
+g0 x130 y130
+g0 x60 y60
+g0 x200 y200
+g0 x60 y60
+g0 x200 y200
+g0 x60 y60
+g0 x200 y200
+g0 x0 y0
+(end)
