@@ -11,18 +11,16 @@ alt="Eustathios Movement Demo" width="560" height="315" border="10" /></a>
 
 
 ### Features
-1.  Belt driven design.
-2.  Z leadscrew.
+1.  Belt driven design with dual Z leadscrews.
+2.  Custom dual hotend carriage.
 3.  Super awesome.
 
 
 
 ### Links
 
-https://github.com/synthetos/TinyG/wiki
+["TinyG"](https://github.com/synthetos/TinyG/wiki)
 
-http://youtu.be/aucE49ZBXx0
-
-https://docs.google.com/spreadsheet/ccc?key=0Am629YCI5h_wdHkxa1gyajBrak5LbDVwejFldXFORUE&usp=sharing
+["BOM"](https://docs.google.com/spreadsheet/ccc?key=0Am629YCI5h_wdHkxa1gyajBrak5LbDVwejFldXFORUE&usp=sharing)
 
 
