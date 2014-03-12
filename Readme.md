@@ -19,8 +19,8 @@ alt="Eustathios Movement Demo" width="560" height="315" border="10" /></a>
 
 ### Links
 
-["TinyG"](https://github.com/synthetos/TinyG/wiki)
+[TinyG](https://github.com/synthetos/TinyG/wiki)
 
-["BOM"](https://docs.google.com/spreadsheet/ccc?key=0Am629YCI5h_wdHkxa1gyajBrak5LbDVwejFldXFORUE&usp=sharing)
+[BOM](https://docs.google.com/spreadsheet/ccc?key=0Am629YCI5h_wdHkxa1gyajBrak5LbDVwejFldXFORUE&usp=sharing)
 
 
