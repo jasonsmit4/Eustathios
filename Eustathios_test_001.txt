@@ -4,16 +4,16 @@ g92 x0 y0 z0
 (iteration1)
 (rapids)
 g0 y110
-g0 x310
+g0 x295
 x0
-x310
+x295
 x0
-x310
+x295
 x0
 y0
 (boxes)
 g0 x0 y0 
-x310
+x295
 y295
 x0
 y0
@@ -79,11 +79,11 @@ y0
 (circles)
 g0 x45 y50 z0
 f30000
-g3 x45 y50 i50 j50 z110
+g3 x45 y50 i50 j50 z210
 g2 x45 y50 i50 j50 z0
 g3 x45 y50 i50 j50 z10
 g2 x45 y50 i50 j50 z0
-g3 x45 y50 i50 j50 z50
+g3 x45 y50 i50 j50 z100
 g2 x45 y50 i50 j50 z0
 g3 x45 y50 i80 j80 z30
 g2 x45 y50 i80 j80 z0
@@ -91,7 +91,7 @@ g3 x45 y50 i105 j95 z0
 g3 x45 y50 i105 j95 z0
 g2 x45 y50 i105 j95 z0
 g2 x45 y50 i105 j95 z0
-g3 x45 y50 i30 j30 z80 
+g3 x45 y50 i30 j30 z180 
 g2 x45 y50 i30 j30 z0 
 g3 x45 y50 i50 j50 z50
 g2 x45 y50 i50 j50 z0
@@ -103,19 +103,19 @@ g3 x45 y50 i50 j50 z0
 g2 x45 y50 i50 j50 z0
 (diagonals)
 g0 x130 y130
-g0 x310 y0
+g0 x295 y0
 g0 x0 y295
-g0 x310 y0
+g0 x295 y0
 g0 x0 y295
-g0 x310 y0
+g0 x295 y0
 g0 x0 y295
 g0 x130 y130
 g0 x0 y0
-g0 x310 y295
+g0 x295 y295
 g0 x0 y0
-g0 x310 y295
+g0 x295 y295
 g0 x0 y0
-g0 x310 y295
+g0 x295 y295
 g0 x130 y130
 g0 x200 y60
 g0 x60 y200
@@ -134,16 +134,16 @@ g0 x0 y0
 (iteration2)
 (rapids)
 g0 y110
-g0 x310
+g0 x295
 x0
-x310
+x295
 x0
-x310
+x295
 x0
 y0
 (boxes)
 g0 x0 y0 
-x310
+x295
 y295
 x0
 y0
@@ -209,11 +209,11 @@ y0
 (circles)
 g0 x45 y50 z0
 f30000
-g3 x45 y50 i50 j50 z110
+g3 x45 y50 i50 j50 z210
 g2 x45 y50 i50 j50 z0
 g3 x45 y50 i50 j50 z10
 g2 x45 y50 i50 j50 z0
-g3 x45 y50 i50 j50 z50
+g3 x45 y50 i50 j50 z100
 g2 x45 y50 i50 j50 z0
 g3 x45 y50 i80 j80 z30
 g2 x45 y50 i80 j80 z0
@@ -221,7 +221,7 @@ g3 x45 y50 i105 j95 z0
 g3 x45 y50 i105 j95 z0
 g2 x45 y50 i105 j95 z0
 g2 x45 y50 i105 j95 z0
-g3 x45 y50 i30 j30 z80 
+g3 x45 y50 i30 j30 z180 
 g2 x45 y50 i30 j30 z0 
 g3 x45 y50 i50 j50 z50
 g2 x45 y50 i50 j50 z0
@@ -233,19 +233,19 @@ g3 x45 y50 i50 j50 z0
 g2 x45 y50 i50 j50 z0
 (diagonals)
 g0 x130 y130
-g0 x310 y0
+g0 x295 y0
 g0 x0 y295
-g0 x310 y0
+g0 x295 y0
 g0 x0 y295
-g0 x310 y0
+g0 x295 y0
 g0 x0 y295
 g0 x130 y130
 g0 x0 y0
-g0 x310 y295
+g0 x295 y295
 g0 x0 y0
-g0 x310 y295
+g0 x295 y295
 g0 x0 y0
-g0 x310 y295
+g0 x295 y295
 g0 x130 y130
 g0 x200 y60
 g0 x60 y200
@@ -264,16 +264,16 @@ g0 x0 y0
 (iteration3)
 (rapids)
 g0 y110
-g0 x310
+g0 x295
 x0
-x310
+x295
 x0
-x310
+x295
 x0
 y0
 (boxes)
 g0 x0 y0 
-x310
+x295
 y295
 x0
 y0
@@ -339,11 +339,11 @@ y0
 (circles)
 g0 x45 y50 z0
 f30000
-g3 x45 y50 i50 j50 z110
+g3 x45 y50 i50 j50 z210
 g2 x45 y50 i50 j50 z0
 g3 x45 y50 i50 j50 z10
 g2 x45 y50 i50 j50 z0
-g3 x45 y50 i50 j50 z50
+g3 x45 y50 i50 j50 z100
 g2 x45 y50 i50 j50 z0
 g3 x45 y50 i80 j80 z30
 g2 x45 y50 i80 j80 z0
@@ -351,7 +351,7 @@ g3 x45 y50 i105 j95 z0
 g3 x45 y50 i105 j95 z0
 g2 x45 y50 i105 j95 z0
 g2 x45 y50 i105 j95 z0
-g3 x45 y50 i30 j30 z80 
+g3 x45 y50 i30 j30 z180 
 g2 x45 y50 i30 j30 z0 
 g3 x45 y50 i50 j50 z50
 g2 x45 y50 i50 j50 z0
@@ -363,19 +363,19 @@ g3 x45 y50 i50 j50 z0
 g2 x45 y50 i50 j50 z0
 (diagonals)
 g0 x130 y130
-g0 x310 y0
+g0 x295 y0
 g0 x0 y295
-g0 x310 y0
+g0 x295 y0
 g0 x0 y295
-g0 x310 y0
+g0 x295 y0
 g0 x0 y295
 g0 x130 y130
 g0 x0 y0
-g0 x310 y295
+g0 x295 y295
 g0 x0 y0
-g0 x310 y295
+g0 x295 y295
 g0 x0 y0
-g0 x310 y295
+g0 x295 y295
 g0 x130 y130
 g0 x200 y60
 g0 x60 y200
@@ -394,16 +394,16 @@ g0 x0 y0
 (iteration4)
 (rapids)
 g0 y110
-g0 x310
+g0 x295
 x0
-x310
+x295
 x0
-x310
+x295
 x0
 y0
 (boxes)
 g0 x0 y0 
-x310
+x295
 y295
 x0
 y0
@@ -469,11 +469,11 @@ y0
 (circles)
 g0 x45 y50 z0
 f30000
-g3 x45 y50 i50 j50 z110
+g3 x45 y50 i50 j50 z210
 g2 x45 y50 i50 j50 z0
 g3 x45 y50 i50 j50 z10
 g2 x45 y50 i50 j50 z0
-g3 x45 y50 i50 j50 z50
+g3 x45 y50 i50 j50 z100
 g2 x45 y50 i50 j50 z0
 g3 x45 y50 i80 j80 z30
 g2 x45 y50 i80 j80 z0
@@ -481,7 +481,7 @@ g3 x45 y50 i105 j95 z0
 g3 x45 y50 i105 j95 z0
 g2 x45 y50 i105 j95 z0
 g2 x45 y50 i105 j95 z0
-g3 x45 y50 i30 j30 z80 
+g3 x45 y50 i30 j30 z180 
 g2 x45 y50 i30 j30 z0 
 g3 x45 y50 i50 j50 z50
 g2 x45 y50 i50 j50 z0
@@ -493,19 +493,19 @@ g3 x45 y50 i50 j50 z0
 g2 x45 y50 i50 j50 z0
 (diagonals)
 g0 x130 y130
-g0 x310 y0
+g0 x295 y0
 g0 x0 y295
-g0 x310 y0
+g0 x295 y0
 g0 x0 y295
-g0 x310 y0
+g0 x295 y0
 g0 x0 y295
 g0 x130 y130
 g0 x0 y0
-g0 x310 y295
+g0 x295 y295
 g0 x0 y0
-g0 x310 y295
+g0 x295 y295
 g0 x0 y0
-g0 x310 y295
+g0 x295 y295
 g0 x130 y130
 g0 x200 y60
 g0 x60 y200
@@ -524,16 +524,16 @@ g0 x0 y0
 (iteration5)
 (rapids)
 g0 y110
-g0 x310
+g0 x295
 x0
-x310
+x295
 x0
-x310
+x295
 x0
 y0
 (boxes)
 g0 x0 y0 
-x310
+x295
 y295
 x0
 y0
@@ -599,11 +599,11 @@ y0
 (circles)
 g0 x45 y50 z0
 f30000
-g3 x45 y50 i50 j50 z110
+g3 x45 y50 i50 j50 z210
 g2 x45 y50 i50 j50 z0
 g3 x45 y50 i50 j50 z10
 g2 x45 y50 i50 j50 z0
-g3 x45 y50 i50 j50 z50
+g3 x45 y50 i50 j50 z100
 g2 x45 y50 i50 j50 z0
 g3 x45 y50 i80 j80 z30
 g2 x45 y50 i80 j80 z0
@@ -611,7 +611,7 @@ g3 x45 y50 i105 j95 z0
 g3 x45 y50 i105 j95 z0
 g2 x45 y50 i105 j95 z0
 g2 x45 y50 i105 j95 z0
-g3 x45 y50 i30 j30 z80 
+g3 x45 y50 i30 j30 z180 
 g2 x45 y50 i30 j30 z0 
 g3 x45 y50 i50 j50 z50
 g2 x45 y50 i50 j50 z0
@@ -623,19 +623,19 @@ g3 x45 y50 i50 j50 z0
 g2 x45 y50 i50 j50 z0
 (diagonals)
 g0 x130 y130
-g0 x310 y0
+g0 x295 y0
 g0 x0 y295
-g0 x310 y0
+g0 x295 y0
 g0 x0 y295
-g0 x310 y0
+g0 x295 y0
 g0 x0 y295
 g0 x130 y130
 g0 x0 y0
-g0 x310 y295
+g0 x295 y295
 g0 x0 y0
-g0 x310 y295
+g0 x295 y295
 g0 x0 y0
-g0 x310 y295
+g0 x295 y295
 g0 x130 y130
 g0 x200 y60
 g0 x60 y200
