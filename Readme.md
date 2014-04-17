@@ -25,4 +25,4 @@ alt="Eustathios Movement Demo" width="560" height="315" border="10" /></a>
 
 [BOM](https://docs.google.com/spreadsheet/ccc?key=0Am629YCI5h_wdHkxa1gyajBrak5LbDVwejFldXFORUE&usp=sharing)
 
-
+[YouMagine](https://www.youmagine.com/designs/eustathios)
