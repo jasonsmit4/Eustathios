@@ -14,7 +14,7 @@ alt="Eustathios Movement Demo" width="560" height="315" border="10" /></a>
 1.  Aluminum extrusion frame.
 2.  Belt driven design with dual Z leadscrews.
 3.  Custom hotend carriage with integrated fan ducts.
-4.  300mmx300mmx300mm build volume.
+4.  300mmx300mmx270mm build volume.
 5.  Super awesome!
 
 
