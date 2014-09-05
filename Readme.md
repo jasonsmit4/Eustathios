@@ -1,4 +1,4 @@
-This is my new shiny printer, Eustathios (Greek for "stable, strong").
+This is my new shiny printer, Eustathios (Greek stemming from "stable, strong").
 Here is a demo video using a TinyG control board for movement:
 
 ### Demo
